@@ -15,6 +15,9 @@ A passionate **Front-End Developer** who's diving deep into the world of web dev
 - GitHub: [Johan's GitHub](https://github.com/kang-joe)
 - Email: johanakiraf@gmail.com
 
+![Visitor Count](https://komarev.com/ghpvc/?username=kang-joe&color=blue)
+
+
 <!--
 **kang-joe/kang-joe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
