@@ -17,6 +17,9 @@ A passionate **Front-End Developer** who's diving deep into the world of web dev
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=kang-joe&color=blue)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 <!--
 **kang-joe/kang-joe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
