@@ -1,15 +1,15 @@
-Hi there I'm Johan👋
+# Hi there I'm Johan👋
 
-🚀 About Me
+## 🚀 About Me
 A passionate **Front-End Developer** who's diving deep into the world of web development. Currently, I'm on a journey to master **HTML, CSS, JavaScript, and React** while building cool and functional websites. I believe in writing clean, maintainable code and constantly challenging myself to learn more.
 
-🔥 What I'm Working On
+## 🔥 What I'm Working On
 - 🌍 Learning **Front-End Development** step by step.
 - 📚 Mastering **JavaScript & React** to build interactive UI/UX.
 - 💡 Experimenting with **modern web technologies** and best practices.
 - 🎯 Building a **marketplace website with a simple database** as my final project.
 
-📫 Let's Connect!
+## 📫 Let's Connect!
 💬 Feel free to reach out if you want to collaborate or just talk tech!
 
 - GitHub: [Johan's GitHub](https://github.com/kang-joe)
